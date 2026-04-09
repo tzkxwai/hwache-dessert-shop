@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Brand" xml:space="preserve">
+    <value>Хваче</value>
+  </data>
+  <data name="NavMenu" xml:space="preserve">
+    <value>Меню</value>
+  </data>
+  <data name="NavHow" xml:space="preserve">
+    <value>Как заказать</value>
+  </data>
+  <data name="NavAbout" xml:space="preserve">
+    <value>О магазине</value>
+  </data>
+  <data name="LangRu" xml:space="preserve">
+    <value>Русский</value>
+  </data>
+  <data name="LangUk" xml:space="preserve">
+    <value>Українська</value>
+  </data>
+  <data name="TitleHome" xml:space="preserve">
+    <value>Десерты и напитки — Хваче</value>
+  </data>
+  <data name="TitleAbout" xml:space="preserve">
+    <value>О магазине — Хваче</value>
+  </data>
+  <data name="HeroBadge" xml:space="preserve">
+    <value>Интернет-магазин десертов и сладких напитков</value>
+  </data>
+  <data name="HeroTitle" xml:space="preserve">
+    <value>Хваче — сладко, фруктово, с доставкой</value>
+  </data>
+  <data name="HeroSubtitle" xml:space="preserve">
+    <value>Торты, пирожные, мороженое и освежающие фруктовые напитки: оформите заказ за минуты — привезём охлаждённым и аккуратно упакованным.</value>
+  </data>
+  <data name="HeroCta" xml:space="preserve">
+    <value>К меню</value>
+  </data>
+  <data name="HeroNote" xml:space="preserve">
+    <value>Минимальный заказ от 300 ₴ · бесплатная доставка от 600 ₴</value>
+  </data>
+  <data name="SectionCategories" xml:space="preserve">
+    <value>Категории</value>
+  </data>
+  <data name="CatPizza" xml:space="preserve">
+    <value>Фирменные напитки</value>
+  </data>
+  <data name="CatSushi" xml:space="preserve">
+    <value>Десерты и снеки</value>
+  </data>
+  <data name="CatBurgers" xml:space="preserve">
+    <value>Специальные предложения</value>
+  </data>
+  <data name="CatDesserts" xml:space="preserve">
+    <value>Хваче</value>
+  </data>
+  <data name="CatJumpHint" xml:space="preserve">
+    <value>Нажмите на категорию — откроется соответствующий раздел полного меню ниже.</value>
+  </data>
+  <data name="MenuFullTitle" xml:space="preserve">
+    <value>Полное меню</value>
+  </data>
+  <data name="MenuFirmSub" xml:space="preserve">
+    <value>Hva-che Drinks</value>
+  </data>
+  <data name="MenuFirmIntro" xml:space="preserve">
+    <value>Яркие напитки с шариками тапиоки или джус-боллами.</value>
+  </data>
+  <data name="MenuFirm1Name" xml:space="preserve">
+    <value>Розовый кварц</value>
+  </data>
+  <data name="MenuFirm1Desc" xml:space="preserve">
+    <value>Освежающий микс клубники, лимонада и розового чая с «жемчужинами».</value>
+  </data>
+  <data name="MenuFirm2Name" xml:space="preserve">
+    <value>Космическое сияние</value>
+  </data>
+  <data name="MenuFirm2Desc" xml:space="preserve">
+    <value>Фиолетовый чай анчан с ежевичным сиропом и съедобным глиттером.</value>
+  </data>
+  <data name="MenuFirm3Name" xml:space="preserve">
+    <value>Облачный Хваче</value>
+  </data>
+  <data name="MenuFirm3Desc" xml:space="preserve">
+    <value>Нежное матча-латте с ванильной пенкой и маршмеллоу.</value>
+  </data>
+  <data name="MenuFirm4Name" xml:space="preserve">
+    <value>Звёздная манго-мания</value>
+  </data>
+  <data name="MenuFirm4Desc" xml:space="preserve">
+    <value>Густой шейк с манго и кокосовым молоком.</value>
+  </data>
+  <data name="MenuSnackIntro" xml:space="preserve">
+    <value>Сладости, которые выглядят так же мило, как ваш персонаж.</value>
+  </data>
+  <data name="MenuSnack1Name" xml:space="preserve">
+    <value>Моти-монстрики</value>
+  </data>
+  <data name="MenuSnack1Desc" xml:space="preserve">
+    <value>Набор из трёх японских десертов моти (клубника, шоколад, манго).</value>
+  </data>
+  <data name="MenuSnack2Name" xml:space="preserve">
+    <value>Пушистое облачко</value>
+  </data>
+  <data name="MenuSnack2Desc" xml:space="preserve">
+    <value>Японский «хлопковый» чизкейк, тающий во рту.</value>
+  </data>
+  <data name="MenuSnack3Name" xml:space="preserve">
+    <value>Ушки Хваче</value>
+  </data>
+  <data name="MenuSnack3Desc" xml:space="preserve">
+    <value>Фирменное печенье в форме звёздочек или «ушек» персонажа с глазурью.</value>
+  </data>
+  <data name="MenuSnack4Name" xml:space="preserve">
+    <value>Бенто-тортик</value>
+  </data>
+  <data name="MenuSnack4Desc" xml:space="preserve">
+    <value>Мини-торт с авторским рисунком — удобно для доставки.</value>
+  </data>
+  <data name="MenuSpec1Name" xml:space="preserve">
+    <value>Комбо «Для друзей»</value>
+  </data>
+  <data name="MenuSpec1Desc" xml:space="preserve">
+    <value>Два напитка и набор моти по выгодной цене.</value>
+  </data>
+  <data name="MenuSpec2Name" xml:space="preserve">
+    <value>Бокс-сюрприз</value>
+  </data>
+  <data name="MenuSpec2Desc" xml:space="preserve">
+    <value>Случайный набор десертов и стикерпак с персонажем в подарок.</value>
+  </data>
+  <data name="MenuHwacheIntro" xml:space="preserve">
+    <value>Хваче — классика и новинки: фрукты в сладкой заливке или соке.</value>
+  </data>
+  <data name="MenuHwacheSubnavAria" xml:space="preserve">
+    <value>Подразделы меню Хваче</value>
+  </data>
+  <data name="HwacheSecFruit" xml:space="preserve">
+    <value>Традиционные и фруктовые (Fruit Base)</value>
+  </data>
+  <data name="HwacheSecFruitLead" xml:space="preserve">
+    <value>Классика: фрукты заливаются сладким напитком или соком.</value>
+  </data>
+  <data name="HwaFruit1Name" xml:space="preserve">
+    <value>Субак Хваче (арбузный)</value>
+  </data>
+  <data name="HwaFruit1Desc" xml:space="preserve">
+    <value>Шарики арбуза, дыни и лёд. Можно залить клубничным молоком или лимонадом «Спрайт».</value>
+  </data>
+  <data name="HwaFruit2Name" xml:space="preserve">
+    <value>Талги Хваче (клубничный)</value>
+  </data>
+  <data name="HwaFruit2Desc" xml:space="preserve">
+    <value>Много свежей клубники, клубничный сироп и немного сгущённого молока для нежно-розового цвета.</value>
+  </data>
+  <data name="HwaFruit3Name" xml:space="preserve">
+    <value>Муль Хваче (тропический)</value>
+  </data>
+  <data name="HwaFruit3Desc" xml:space="preserve">
+    <value>Микс ананаса, манго и киви на основе кокосовой воды.</value>
+  </data>
+  <data name="HwacheSecCreamy" xml:space="preserve">
+    <value>Сливочные и молочные (Creamy &amp; Milky)</value>
+  </data>
+  <data name="HwacheSecCreamyLead" xml:space="preserve">
+    <value>Сытнее — почти как жидкий десерт.</value>
+  </data>
+  <data name="HwaCream1Name" xml:space="preserve">
+    <value>Ёню Хваче (сгущённое молоко)</value>
+  </data>
+  <data name="HwaCream1Desc" xml:space="preserve">
+    <value>Фруктовое ассорти, залитое смесью молока и сгущёнки — очень сладко и нежно.</value>
+  </data>
+  <data name="HwaCream2Name" xml:space="preserve">
+    <value>Йогурт Хваче</value>
+  </data>
+  <data name="HwaCream2Desc" xml:space="preserve">
+    <value>Кусочки персика и голубики на основе питьевого йогурта.</value>
+  </data>
+  <data name="HwaCream3Name" xml:space="preserve">
+    <value>Розовое облако</value>
+  </data>
+  <data name="HwaCream3Desc" xml:space="preserve">
+    <value>Малина и бананы в клубничном молоке со сливочной пенкой сверху.</value>
+  </data>
+  <data name="HwacheSecSpark" xml:space="preserve">
+    <value>Газированные и «взрывные» (Sparkling &amp; Fun)</value>
+  </data>
+  <data name="HwacheSecSparkLead" xml:space="preserve">
+    <value>Современные варианты с пузырьками.</value>
+  </data>
+  <data name="HwaSpark1Name" xml:space="preserve">
+    <value>Спрайт-поп Хваче</value>
+  </data>
+  <data name="HwaSpark1Desc" xml:space="preserve">
+    <value>Фрукты, залитые лимонадом, с «взрывной» карамелью или джус-боллами.</value>
+  </data>
+  <data name="HwaSpark2Name" xml:space="preserve">
+    <value>Цитрус-энерджи</value>
+  </data>
+  <data name="HwaSpark2Desc" xml:space="preserve">
+    <value>Апельсин, грейпфрут и лимон на тонике или игристой газировке.</value>
+  </data>
+  <data name="HwaSpark3Name" xml:space="preserve">
+    <value>Голубая лагуна</value>
+  </data>
+  <data name="HwaSpark3Desc" xml:space="preserve">
+    <value>Голубика и белый виноград в безалкогольном голубом лимонаде «Блю Кюрасао».</value>
+  </data>
+  <data name="HwacheSecAuthor" xml:space="preserve">
+    <value>Необычные и авторские</value>
+  </data>
+  <data name="HwaAuth1Name" xml:space="preserve">
+    <value>Чоко-Хваче</value>
+  </data>
+  <data name="HwaAuth1Desc" xml:space="preserve">
+    <value>Кусочки банана и клубники в шоколадном молоке с шоколадными криспи.</value>
+  </data>
+  <data name="HwaAuth2Name" xml:space="preserve">
+    <value>Звёздное Хваче (фирменное)</value>
+  </data>
+  <data name="HwaAuth2Desc" xml:space="preserve">
+    <value>Фрукты, нарезанные звёздочками, на основе чая анчан — цвет меняется с синего на фиолетовый.</value>
+  </data>
+  <data name="MenuToppingsTitle" xml:space="preserve">
+    <value>Добавки (конструктор топпингов)</value>
+  </data>
+  <data name="MenuTopping1" xml:space="preserve">
+    <value>Шарики тапиоки или джус-боллы.</value>
+  </data>
+  <data name="MenuTopping2" xml:space="preserve">
+    <value>Кубики желе (кокосовое, кофейное или фруктовое).</value>
+  </data>
+  <data name="MenuTopping3" xml:space="preserve">
+    <value>Шарик мороженого (ваниль или сорбет).</value>
+  </data>
+  <data name="MenuTopping4" xml:space="preserve">
+    <value>Орехи или гранола для хруста.</value>
+  </data>
+  <data name="MenuDeliveryTipLabel" xml:space="preserve">
+    <value>Совет для доставки:</value>
+  </data>
+  <data name="MenuDeliveryTip" xml:space="preserve">
+    <value>выберите опцию «фрукты отдельно, заливка отдельно» — десерт приедет максимально свежим, фрукты не размокнут.</value>
+  </data>
+  <data name="SectionPopular" xml:space="preserve">
+    <value>Популярное сегодня</value>
+  </data>
+  <data name="Dish1Name" xml:space="preserve">
+    <value>Чизкейк «Лесные ягоды»</value>
+  </data>
+  <data name="Dish1Desc" xml:space="preserve">
+    <value>Клубника, ежевика, сливочный сыр, песочная основа</value>
+  </data>
+  <data name="Dish2Name" xml:space="preserve">
+    <value>Смузи «Манго-маракуйя»</value>
+  </data>
+  <data name="Dish2Desc" xml:space="preserve">
+    <value>Манго, маракуйя, апельсин, лёд — без добавления сиропов</value>
+  </data>
+  <data name="Dish3Name" xml:space="preserve">
+    <value>Набор макаронс, 6 шт.</value>
+  </data>
+  <data name="Dish3Desc" xml:space="preserve">
+    <value>Миндальное тесто, нежная начинка, ассорти вкусов</value>
+  </data>
+  <data name="Dish4Name" xml:space="preserve">
+    <value>Гастрономическое мороженое</value>
+  </data>
+  <data name="Dish4Desc" xml:space="preserve">
+    <value>Два шарика на выбор: ваниль, солёная карамель, фисташка</value>
+  </data>
+  <data name="PriceFrom" xml:space="preserve">
+    <value>от {0} ₴</value>
+  </data>
+  <data name="AddToCart" xml:space="preserve">
+    <value>В корзину</value>
+  </data>
+  <data name="SectionHow" xml:space="preserve">
+    <value>Как сделать заказ</value>
+  </data>
+  <data name="Step1Title" xml:space="preserve">
+    <value>Выберите десерты и напитки</value>
+  </data>
+  <data name="Step1Desc" xml:space="preserve">
+    <value>Добавьте товары в корзину и укажите адрес доставки.</value>
+  </data>
+  <data name="Step2Title" xml:space="preserve">
+    <value>Оплатите онлайн или курьеру</value>
+  </data>
+  <data name="Step2Desc" xml:space="preserve">
+    <value>Карта, Apple Pay, Google Pay или наличные при получении.</value>
+  </data>
+  <data name="Step3Title" xml:space="preserve">
+    <value>Наслаждайтесь</value>
+  </data>
+  <data name="Step3Desc" xml:space="preserve">
+    <value>Получите заказ и насладитесь свежим вкусом дома или в офисе.</value>
+  </data>
+  <data name="FooterTagline" xml:space="preserve">
+    <value>Интернет-магазин десертов «Хваче» — с любовью к сладкому.</value>
+  </data>
+  <data name="FooterCopy" xml:space="preserve">
+    <value>© {0} Хваче. Все права защищены.</value>
+  </data>
+  <data name="AboutTitle" xml:space="preserve">
+    <value>О магазине Хваче</value>
+  </data>
+  <data name="AboutLead" xml:space="preserve">
+    <value>Мы печём и готовим десерты с натуральными фруктами и ягодами, а сладкие напитки — без лишней химии: только то, что приятно пить и есть.</value>
+  </data>
+  <data name="AboutP1" xml:space="preserve">
+    <value>Интернет-магазин «Хваче» принимает заказы ежедневно с 10:00 до 22:00. Доставляем по городу; самовывоз — по предварительному времени.</value>
+  </data>
+  <data name="AboutP2" xml:space="preserve">
+    <value>Данные клиентов используются только для обработки заказов и не передаются третьим лицам без согласия.</value>
+  </data>
+  <data name="CartTitle" xml:space="preserve">
+    <value>Корзина</value>
+  </data>
+  <data name="CartEmpty" xml:space="preserve">
+    <value>Пока пусто — добавьте что-нибудь вкусное из меню.</value>
+  </data>
+  <data name="CartTotal" xml:space="preserve">
+    <value>Итого</value>
+  </data>
+  <data name="CartClear" xml:space="preserve">
+    <value>Очистить</value>
+  </data>
+  <data name="CartOpenAria" xml:space="preserve">
+    <value>Открыть корзину</value>
+  </data>
+  <data name="CartRemoveLine" xml:space="preserve">
+    <value>Убрать позицию</value>
+  </data>
+  <data name="CartCurrency" xml:space="preserve">
+    <value>₴</value>
+  </data>
+  <data name="CartClose" xml:space="preserve">
+    <value>Закрыть корзину</value>
+  </data>
+  <data name="BackHome" xml:space="preserve">
+    <value>На главную</value>
+  </data>
+</root>

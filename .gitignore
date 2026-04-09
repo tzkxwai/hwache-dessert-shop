@@ -1,0 +1,41 @@
+## .NET / ASP.NET Core
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.user
+*.suo
+*.cache
+*.dll
+*.pdb
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json.user
+
+## Visual Studio / VS Code
+.vs/
+.vscode/*
+!.vscode/extensions.json
+*.rsuser
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+
+## OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+## npm / front (if added later)
+node_modules/
+
+## User uploads / secrets
+appsettings.*.local.json
+*.pfx
+secrets.json
