@@ -1,41 +1,19 @@
-## .NET / ASP.NET Core
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-[Ll]ogs/
-*.user
-*.suo
-*.cache
-*.dll
-*.pdb
-*.nupkg
-project.lock.json
-project.fragment.lock.json
-artifacts/
-**/Properties/launchSettings.json.user
+## Next.js (project in web/)
+web/node_modules/
+web/.next/
+web/out/
 
-## Visual Studio / VS Code
+## OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
 .vs/
 .vscode/*
 !.vscode/extensions.json
-*.rsuser
-*.userosscache
-*.sln.docstates
 
-## Rider
-.idea/
+## Env / secrets
+.env
+.env*.local
 
-## OS
-Thumbs.db
-ehthumbs.db
-Desktop.ini
-$RECYCLE.BIN/
-.DS_Store
-
-## npm / front (if added later)
-node_modules/
-
-## User uploads / secrets
-appsettings.*.local.json
-*.pfx
-secrets.json
+## Old ASP.NET folder (removed from repo)
+hwache/
