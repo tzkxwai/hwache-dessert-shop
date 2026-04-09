@@ -1,11 +1,10 @@
 # Хваче — інтернет-магазин десертів і напоїв
 
-Фронтенд на **Next.js 16** (App Router), українська мова. Дизайн і навігація (якорі категорій, повне меню, кошик у `localStorage`) збережені з попередньої версії на ASP.NET Core.
+Фронтенд на **Next.js 16** (App Router), українська мова.
 
 ## Запуск
 
 ```bash
-cd web
 npm install
 npm run dev
 ```
@@ -15,14 +14,18 @@ npm run dev
 ## Збірка
 
 ```bash
-cd web
+npm install
 npm run build
 npm start
 ```
 
+## Vercel
+
+Проєкт у **корені** репозиторію (`package.json` поруч із `app/`). У налаштуваннях Vercel залиште **Root Directory** порожнім (`.`). Framework: **Next.js**.
+
 ## Структура
 
-- `web/app` — сторінки (`/`, `/privacy`)
-- `web/components` — шапка, футер, кошик, меню
-- `web/lib/strings.ts` — тексти українською
-- `web/public/images` — логотип і патерн
+- `app/` — сторінки (`/`, `/privacy`, `/order`)
+- `components/` — шапка, футер, кошик, меню
+- `lib/strings.ts` — тексти українською
+- `public/images/` — логотип і патерн
