@@ -49,6 +49,11 @@ export function SiteHeader() {
                   </Link>
                 </li>
                 <li className="nav-item">
+                  <Link className="nav-link hwache-nav-link" href="/order">
+                    {t.navOrder}
+                  </Link>
+                </li>
+                <li className="nav-item">
                   <Link
                     className="nav-link hwache-nav-link"
                     href="/privacy"

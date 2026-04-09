@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { t } from "@/lib/strings";
 import { useCart } from "./CartContext";
 
@@ -87,6 +88,13 @@ export function CartOffcanvas() {
               {total} {t.cartCurrency}
             </span>
           </div>
+          <Link
+            href="/order"
+            className="btn hwache-btn-primary w-100 mb-2"
+            data-bs-dismiss="offcanvas"
+          >
+            {t.orderCheckout}
+          </Link>
           <button
             type="button"
             className="btn hwache-btn-outline w-100"

@@ -749,3 +749,30 @@ li.hwache-menu-row {
 .btn:focus, .btn:active:focus {
   box-shadow: 0 0 0 0.2rem rgba(197, 224, 143, 0.75);
 }
+
+/* ——— Сторінка замовлення ——— */
+.hwache-order-card {
+  background: var(--hw-sticker);
+  border: 3px solid var(--hw-sticker);
+  border-radius: 1.25rem;
+  box-shadow: var(--hw-shadow-sticker);
+}
+
+.hwache-order-input {
+  border: 2px solid rgba(232, 155, 177, 0.35);
+  border-radius: 0.75rem;
+}
+
+.hwache-order-input:focus {
+  border-color: var(--hw-pistachio-deep);
+  box-shadow: 0 0 0 0.2rem rgba(197, 224, 143, 0.45);
+}
+
+.hwache-order-pre {
+  white-space: pre-wrap;
+  word-break: break-word;
+  font-family: inherit;
+  color: var(--hw-text);
+  max-height: 22rem;
+  overflow-y: auto;
+}
